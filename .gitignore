@@ -1,0 +1,8 @@
+*.suo
+
+*.csproj
+*.sln
+Library/
+Temp/
+Assets/StreamingAssets/   
+SepGameJam/.vs/SepGameJam/v15/Server/sqlite3/storage.ide
